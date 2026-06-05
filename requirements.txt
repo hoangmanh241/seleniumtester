@@ -1,0 +1,4 @@
+selenium
+openpyxl
+flask
+flask-cors
