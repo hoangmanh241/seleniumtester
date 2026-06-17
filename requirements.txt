@@ -1,4 +1,5 @@
 selenium
 openpyxl
-flask
-flask-cors
+
+google-generativeai
+python-dotenv

@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+
+# Bỏ qua các file báo cáo sinh tự động
+report_*.html
+report_*.xlsx
